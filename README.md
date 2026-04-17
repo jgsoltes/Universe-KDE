@@ -1,4 +1,4 @@
-Generates and analyzes data for Spacetime Resonance Topography (SRT).
+Generates and analyzes data for the universal statistical topography.
 
 Core Dependencies:
     - numpy, pandas, matplotlib, seaborn, scipy, sklearn, gplearn
